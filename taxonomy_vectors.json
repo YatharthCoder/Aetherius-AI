@@ -1,0 +1,46 @@
+{
+  "active recall": [
+    {
+      "id": "vec-recall-1",
+      "term": "Active Retrieval Testing",
+      "definition": "The cognitive practice of pulling information from memory instead of passively reviewing notes, strengthening neural synapses.",
+      "relevance": 0.98
+    },
+    {
+      "id": "vec-recall-2",
+      "term": "Self-Testing Effect",
+      "definition": "The psychological phenomenon where taking practice quizzes produces superior long-term retention compared to mere re-reading.",
+      "relevance": 0.92
+    }
+  ],
+  "spaced repetition": [
+    {
+      "id": "vec-space-1",
+      "term": "Spaced Interval Review",
+      "definition": "Spacing learning intervals over time using cognitive decay models to optimize review schedules just before the forgetting curve triggers.",
+      "relevance": 0.97
+    },
+    {
+      "id": "vec-space-2",
+      "term": "SuperMemo SM-2 Algorithm",
+      "definition": "An algorithmic approach computing specific interval multipliers based on feedback scale indices of recall ease.",
+      "relevance": 0.89
+    }
+  ],
+  "feynman technique": [
+    {
+      "id": "vec-feynman-1",
+      "term": "Cognitive Simplicity Explanations",
+      "definition": "Explaining concepts in extremely basic terms to identify gaps in personal understanding, mapping knowledge barriers.",
+      "relevance": 0.95
+    }
+  ],
+  "leitner system": [
+    {
+      "id": "vec-leitner-1",
+      "term": "Box-Based Flashcard Scheduling",
+      "definition": "A simple manual method of spaced repetition where flashcards are moved into further boxes on success, or reset to box one on failure.",
+      "relevance": 0.94
+    }
+  ]
+}

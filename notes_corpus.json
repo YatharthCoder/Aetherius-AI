@@ -1,0 +1,54 @@
+{
+  "Math": {
+    "title": "Calculus and Mathematical Analysis",
+    "concepts": [
+      "Limits & Continuity: Evaluates the behavior of functions as they approach infinite or discrete boundaries.",
+      "Derivatives: Measures rate of change, instantaneous slopes, and optimization constraints.",
+      "Integrals: Calculates area under curves, continuous accumulations, and fundamental theorems."
+    ],
+    "lectures": [
+      "Lecture 1: Limits of indeterminate forms and L'Hopital's Rule.",
+      "Lecture 2: Product, quotient, and chain rules for transcendental derivatives.",
+      "Lecture 3: Riemann sums and definite integration."
+    ]
+  },
+  "Computer Science": {
+    "title": "Data Structures and Algorithms",
+    "concepts": [
+      "Time Complexity (Big O): Classifies algorithms according to their worst-case performance scaling.",
+      "Graph Traversal: Breadth-First Search (BFS) and Depth-First Search (DFS) topological orderings.",
+      "Dynamic Programming: Solves complex problems by breaking them into overlapping memoized subproblems."
+    ],
+    "lectures": [
+      "Lecture 1: Asymptotic bounds, memory layouts, and array versus list overhead.",
+      "Lecture 2: Tree balance constraints, AVL rotations, and red-black tree conditions.",
+      "Lecture 3: Memoization arrays versus bottom-up tabular programming."
+    ]
+  },
+  "Biology": {
+    "title": "Molecular Biology and Genetics",
+    "concepts": [
+      "DNA Replication: Semi-conservative replication overseen by DNA polymerases, helicase, and ligase enzymes.",
+      "Transcription: Synthesis of single-stranded messenger RNA from specific genomic templates.",
+      "Translation: Ribosomal decoding of codons into complete polypeptide amino acid chains."
+    ],
+    "lectures": [
+      "Lecture 1: DNA fork mechanics, Okazaki fragments, and leading versus lagging replication.",
+      "Lecture 2: RNA Polymerase bindings, promoter regions, and intron splicing introns.",
+      "Lecture 3: Transfer RNA (tRNA) anticodon pairings and translation initiation complexes."
+    ]
+  },
+  "Chemistry": {
+    "title": "General and Organic Chemistry",
+    "concepts": [
+      "Chemical Equilibrium: Reversible reactions governed by Le Chatelier's principle and equilibrium constants (Kc).",
+      "Thermodynamics: Enthalpy (dH), Entropy (dS), and Gibbs Free Energy (dG) determining spontaneity.",
+      "Electronegativity: Atomic pull on shared electrons determining polar covalent versus ionic bindings."
+    ],
+    "lectures": [
+      "Lecture 1: Dynamic equilibria, reaction quotient calculations, and pressure perturbations.",
+      "Lecture 2: Hess's Law, calorimetry bounds, and state function calculations.",
+      "Lecture 3: Dipole moments, resonance structures, and steric hindrance."
+    ]
+  }
+}

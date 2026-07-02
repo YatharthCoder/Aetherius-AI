@@ -1,0 +1,22 @@
+{
+  "neural networks": {
+    "concept": "Neural Networks",
+    "metaphor": "An active post-office sorting system where each mail clerk (neuron) only passes messages forward if the total weight of mail exceeds their trigger threshold.",
+    "retrievalRoute": "/metaphors/neural-networks"
+  },
+  "limits": {
+    "concept": "Limits in Calculus",
+    "metaphor": "An archer shooting an arrow that gets infinitely close to hitting the bullseye but represents the theoretical coordinate bounds rather than the physical impact.",
+    "retrievalRoute": "/metaphors/calculus-limits"
+  },
+  "recursion": {
+    "concept": "Recursion in programming",
+    "metaphor": "Standing inside an elevator with mirrors on both sides, seeing an infinite tunnel of smaller elevators, where you must eventually reach a base elevator wall to stop.",
+    "retrievalRoute": "/metaphors/recursion"
+  },
+  "dna replication": {
+    "concept": "DNA Replication",
+    "metaphor": "A double-sided zipper being unzipped by a dynamic pull-slider (helicase) while two tailored sewing machines follow closely behind to rebuild matching teeth on each exposed side.",
+    "retrievalRoute": "/metaphors/dna-replication"
+  }
+}

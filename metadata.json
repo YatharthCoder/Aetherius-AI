@@ -1,0 +1,6 @@
+{
+  "name": "Aetherius: Academic AI Command Node",
+  "description": "An interactive, multi-agent study companion featuring personalized study scheduling, custom AI generated quizzes, model context protocol (MCP) tool inspectors, and safety guardrules, built for the Kaggle Capstone Project.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
